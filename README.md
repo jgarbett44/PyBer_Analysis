@@ -7,16 +7,16 @@ We are reviewing large CSV files from Pyber, a ride sharing service, to look for
 
 ## Results
 
-There is a negative correlation between the average fare and the number of rides per city: analysis/Fig1.png
+There is a negative correlation between the average fare and the number of rides per city: Analysis/Fig1.png
  
 Urban cities make up 62.7% of all fares, suburban cities make up 30.5% and rural areas make up 6.8%: 
-analysis/Fig5.png
+Analysis/Fig5.png
 
 Suburban cities make up 68.4% of all rides, suburban cities make up 26.3% and rural areas make up 5.3%: 
-analysis/Fig6.png
+Analysis/Fig6.png
 
 Urban have 80.9% of all drivers, suburban cities have 16.5% and rural areas have 2.6%: 
-analysis/Fig7.png
+Analysis/Fig7.png
 
 
 ## Summary

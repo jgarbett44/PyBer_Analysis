@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are reviewing large CSV files from Pyber, a ride sharing service, to look for trends and to make comparisons between city type, time of year, and other data points. 
+We are reviewing large CSV files of fare and ride data from Pyber, a ride sharing service, to look for trends and to make comparisons between rural, urban and suburban areas.
 
 
 ## Results
